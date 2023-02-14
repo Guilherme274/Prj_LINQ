@@ -1,0 +1,8 @@
+C:\Users\guilh\OneDrive\Documentos\ESTUDO\.NET\AluraTunes1\AluraTunes1\bin\Debug\AluraTunes1.exe.config
+C:\Users\guilh\OneDrive\Documentos\ESTUDO\.NET\AluraTunes1\AluraTunes1\bin\Debug\AluraTunes1.exe
+C:\Users\guilh\OneDrive\Documentos\ESTUDO\.NET\AluraTunes1\AluraTunes1\bin\Debug\AluraTunes1.pdb
+C:\Users\guilh\OneDrive\Documentos\ESTUDO\.NET\AluraTunes1\AluraTunes1\obj\Debug\AluraTunes1.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\ESTUDO\.NET\AluraTunes1\AluraTunes1\obj\Debug\AluraTunes1.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\OneDrive\Documentos\ESTUDO\.NET\AluraTunes1\AluraTunes1\obj\Debug\AluraTunes1.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\ESTUDO\.NET\AluraTunes1\AluraTunes1\obj\Debug\AluraTunes1.exe
+C:\Users\guilh\OneDrive\Documentos\ESTUDO\.NET\AluraTunes1\AluraTunes1\obj\Debug\AluraTunes1.pdb
